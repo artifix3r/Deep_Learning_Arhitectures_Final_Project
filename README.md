@@ -1,4 +1,12 @@
+1. Yusif Imamverdiyev
+2. Seyid Alibeyli
+
+Supervisor : Maxime Devanne 
+
+
 # Predict heart attack
+
+
 
 Our goal is create test model for detecting ischemic changes on electrocardiogram.
 
